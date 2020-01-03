@@ -1,6 +1,6 @@
 ###Create lights for your christmas tree that you can control with app on smartphone (bluetooth). 
 ## Table of contents
-*[How it's done](#How-it's-done)
+*[How it's done](#How-it's-done);
 *[Code in Arduino IDE](#Code-in-Arduino-IDE)
 *[App](#app)
 *[Sources](#Sources)
