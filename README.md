@@ -205,7 +205,7 @@ void loop() {
 }
 ```
 ## App
-I do my app on https://appinventor.mit.edu/
+I do my app on https://appinventor.mit.edu/ "MIT App Inventor is an intuitive, visual programming environment that allows everyone – even children – to build fully functional apps for smartphones and tablets." So, click *create apps!* and create an account. You can add my app to your projects and even edit-that's good for start. *My projects->Import project(.aia)*
 
 ![App screen](/screen.jpg)
 
