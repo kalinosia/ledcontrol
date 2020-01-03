@@ -207,7 +207,7 @@ void loop() {
 ## App
 I do my app on https://appinventor.mit.edu/ "MIT App Inventor is an intuitive, visual programming environment that allows everyone – even children – to build fully functional apps for smartphones and tablets." So, click *create apps!* and create an account. You can add my app to your projects and even edit-that's good for start: *My projects->Import project(.aia)*
 
-<img src="/images/screen.jpg" alt="app screen" height="50%" width="50%"> <!--![App screen](./imaes/screen.jpg)-->
+<img src="/images/screen.jpg" alt="app screen" height="50%" width="50%" BORDER=1> <!--![App screen](./imaes/screen.jpg)-->
 I **download app to smartphon**: `Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
 Yes, that was my problem too :) I'm new in this things. 
 ## Sources
