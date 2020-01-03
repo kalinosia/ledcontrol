@@ -9,14 +9,13 @@
 I made my Christmas lights myself, 
 I mean I took the components, soldering iron ..... and I connected everything to short chain of lights. 
 (In the future I recommend creating a minimum distance of 10 cm between the leds :) 
-For me there are 20 leds (5 of each color: yellow, green, red and blue).
-I had 1 kΩ resistors so I use this, you can give smaller (e.g. 330Ω) to (-) each diode. 
+For me there are **20 leds (5 of each color: yellow, green, red and blue)**.
+I had **1 kΩ resistors to (-) each diode** so I use this, you can give smaller (e.g. 330Ω) . 
 I connected the diodes in parallel, each color separately. One mass for everyone. 
 Colors alternate in repetitive order. 
-# ESP32 DevKit V1 Module controller.# 
-Pins by schema GPIO pins. 
+**ESP32 DevKit V1 Module controller.** Pins by schema GPIO pins. 
 Application on smartphon written in apponventor. https://appinventor.mit.edu/
-##Code in Arduino IDE
+## Code in Arduino IDE
 ```
 #include <BLEDevice.h>
 #include <BLEServer.h>
