@@ -1,11 +1,11 @@
-###Create lights for your christmas tree that you can control with app on smartphone (bluetooth). 
+### Create lights for your christmas tree that you can control with app on smartphone (bluetooth). 
 ## Table of contents
-*[How it's done](#How-it's-done);
-*[Code in Arduino IDE](#Code-in-Arduino-IDE)
-*[App](#app)
-*[Sources](#Sources)
+* [How it's done](#How-it's-done)
+* [Code in Arduino IDE](#Code-in-Arduino-IDE)
+* [App](#app)
+* [Sources](#Sources)
 
-##How it's done
+## How it's done
 I made my Christmas lights myself, 
 I mean I took the components, soldering iron ..... and I connected everything to short chain of lights. 
 (In the future I recommend creating a minimum distance of 10 cm between the leds :) 
@@ -13,7 +13,7 @@ For me there are 20 leds (5 of each color: yellow, green, red and blue).
 I had 1 kΩ resistors so I use this, you can give smaller (e.g. 330Ω) to (-) each diode. 
 I connected the diodes in parallel, each color separately. One mass for everyone. 
 Colors alternate in repetitive order. 
-#ESP32 DevKit V1 Module controller.# 
+# ESP32 DevKit V1 Module controller.# 
 Pins by schema GPIO pins. 
 Application on smartphon written in apponventor. https://appinventor.mit.edu/
 ##Code in Arduino IDE
@@ -205,14 +205,14 @@ void loop() {
   delay(500); //for me like in multi
 }
 ```
-##App
+## App
 I do my app on https://appinventor.mit.edu/
 
 ![App screen](/screen.jpg)
 
 I download app to smartphon: `Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
 Yes, that was my problem too :) I'm new in this things. 
-##Sources
+## Sources
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
     Ported to Arduino ESP32 by Evandro Copercini
