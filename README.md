@@ -208,7 +208,7 @@ void loop() {
 ##App
 I do my app on https://appinventor.mit.edu/
 
-![App screen](.images/screen.jpg)
+![App screen](/screen.jpg)
 
 I download app to smartphon: `Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
 Yes, that was my problem too :) I'm new in this things. 
