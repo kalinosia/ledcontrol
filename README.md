@@ -69,8 +69,8 @@ class MyServerCallbacks: public BLEServerCallbacks {          //Bluetooth device
 };
 
 
-class MyCallbacks: public BLECharacteristicCallbacks {         //Value get from device, U can look to appinventor
-    void onWrite(BLECharacteristic *pCharacteristic) {
+class MyCallbacks: public BLECharacteristicCallbacks {         //Value get from device
+    void onWrite(BLECharacteristic *pCharacteristic) {            //U can look to appinventor
       std::string rxValue = pCharacteristic->getValue();
 
       if (rxValue.length() > 0) {
