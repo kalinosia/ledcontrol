@@ -210,7 +210,8 @@ I do my app on https://appinventor.mit.edu/ "MIT App Inventor is an intuitive, v
 
 <img src="/images/screen.jpg" alt="app screen" height="50%" width="50%" border="1px solid black"> <!--![App screen](./imaes/screen.jpg)-->
 
-I **download app to smartphon**: `Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
+ 
+**To download app to smartphon**: `Appinventor(with added app)->Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
 Yes, that was my problem too :) I'm new in this things. 
 ## Sources
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
