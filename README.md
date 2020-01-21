@@ -4,6 +4,7 @@
 * [Code in Arduino IDE](#Code-in-Arduino-IDE)
 * [App](#app)
 * [Sources](#Sources)
+* [Correct](#Corect)
 
 ## How it's done
 I made my Christmas lights myself, 
@@ -215,3 +216,17 @@ Yes, that was my problem too :) I'm new in this things.
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
     Ported to Arduino ESP32 by Evandro Copercini
+    
+    
+   ## Correct
+    
+   This is to my future TO DO LIST
+    
+    App problem with loop in appinventor (blue light on when all off -> correct function multi... loop
+    
+    When bluetooth is disconet -> multi -> stop REPAIR
+    
+    Maybe buzzer
+    Maybe buttons 
+    
+    
