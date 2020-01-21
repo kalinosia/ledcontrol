@@ -4,7 +4,7 @@
 * [Code in Arduino IDE](#Code-in-Arduino-IDE)
 * [App](#app)
 * [Sources](#Sources)
-* [Correct](#Corect)
+* [Correct (for me)](#Correct)
 
 ## How it's done
 I made my Christmas lights myself, 
