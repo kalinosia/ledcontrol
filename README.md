@@ -18,7 +18,7 @@ Colors alternate in repetitive order.
 **ESP32 DevKit V1 Module controller.** Pins by schema GPIO pins. 
 Application on smartphon written in apponventor. https://appinventor.mit.edu/
 
-<img src="images/78993024_2748436465179026_2554585657909444608_o.jpg" height="30%" width="30%"> <img src="images/80844154_2748437325178940_1084137401497944064_o.jpg" height="30%" width="30%">
+<img src="images/78993024_2748436465179026_2554585657909444608_o.jpg" height="30%" width="30%" > <img src="images/80844154_2748437325178940_1084137401497944064_o.jpg" height="30%" width="30%">
 
 ## Code in Arduino IDE
 ```
