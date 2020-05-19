@@ -3,6 +3,7 @@
 * [How it's done](#How-it's-done)
 * [Code in Arduino IDE](#Code-in-Arduino-IDE)
 * [App](#app)
+* [Result](#Result)
 * [Sources](#Sources)
 * [Correct (for me)](#Correct)
 
@@ -16,6 +17,9 @@ I connected the diodes in parallel, each color separately. One mass for everyone
 Colors alternate in repetitive order. 
 **ESP32 DevKit V1 Module controller.** Pins by schema GPIO pins. 
 Application on smartphon written in apponventor. https://appinventor.mit.edu/
+
+<img src="images/78993024_2748436465179026_2554585657909444608_o.jpg" height="30%" width="30%"> <img src="images/80844154_2748437325178940_1084137401497944064_o.jpg" height="30%" width="30%">
+
 ## Code in Arduino IDE
 ```
 #include <BLEDevice.h>
@@ -213,11 +217,16 @@ I do my app on https://appinventor.mit.edu/ "MIT App Inventor is an intuitive, v
  
 **To download app to smartphon**: `Appinventor(with added app)->Build->App(provide QR code for .apk)` because if U want add your app on Google Store you must pay $25.
 Yes, that was my problem too :) I'm new in this things. 
+
+## Result
+
+![Testing](images/wideo.gif)
+
+
 ## Sources
     Video: https://www.youtube.com/watch?v=oCMOYS71NIU
     Based on Neil Kolban example for IDF: https://github.com/nkolban/esp32-snippets/blob/master/cpp_utils/tests/BLE%20Tests/SampleNotify.cpp
-    Ported to Arduino ESP32 by Evandro Copercini
-    
+    Ported to Arduino ESP32 by Evandro Copercini 
     
    ## Correct
     
